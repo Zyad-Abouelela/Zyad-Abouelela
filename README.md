@@ -1,7 +1,7 @@
 <div align="center">
  
 <h1>👋 Salut, moi c'est Zyad Abou Elela</h1>
-<h3>🎓 Étudiant BUT Informatique · 🔍 En recherche d'alternance 24 mois · 📍 Rueil-Malmaison (92)</h3>
+<h3>🎓 Étudiant BUT Informatique · 🔍 En recherche d'alternance 24 mois · 📍 Nanterre (92)</h3>
  
 <br/>
  
