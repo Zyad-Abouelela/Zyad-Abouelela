@@ -13,7 +13,7 @@
  
 ## 🚀 À propos de moi
  
-- 🎓 Étudiant en **BUT Informatique** à l'IUT de Villetaneuse — Université Sorbonne Paris Nord
+- 🎓 Étudiant en **BUT Informatique** à l'IUT de Paris Rives-de-Seine
 - 🔍 En recherche d'une **alternance de 24 mois** à partir de septembre 2026 (rythme 2 sem / 2 sem)
 - 💡 Passionné par le **développement web**, la **programmation** et la **gestion de bases de données**
 - 🌍 Multilingue : Français · Arabe (C1) · Anglais (C1) · Espagnol · Mandarin (notions)
@@ -51,7 +51,7 @@
  
 ---
  
-## 💡 Fun Facts
+## 💡 Hobbies
  
 - 🏋️ Pratique régulière de la musculation
 - 🥾 Passionné de randonnée en montagne
@@ -60,5 +60,5 @@
 ---
  
 <div align="center">
-<i>💼 Ouvert aux opportunités d'alternance — N'hésitez pas à me contacter !</i>
+<i>Ouvert aux opportunités d'alternance — N'hésitez pas à me contacter !</i>
 </div>
